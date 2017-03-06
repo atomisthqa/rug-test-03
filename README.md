@@ -7,6 +7,7 @@ This [Rug][rug] project contains Atomist Rug archive project.
 
 ## Rugs
 
+
 ## Support
 
 General support questions should be discussed in the `#support`
