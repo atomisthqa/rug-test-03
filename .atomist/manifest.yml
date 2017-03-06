@@ -1,0 +1,4 @@
+group: "atomist-rugs"
+artifact: "rug-test-03"
+version: "0.1.0"
+requires: "[0.12.0,1.0.0)"

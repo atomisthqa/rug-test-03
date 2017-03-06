@@ -1,0 +1,15 @@
+---
+kind: "operation"
+client: "atomist 1.2"
+generator:
+  name: "NewStarterRugProject"
+  group: "atomist-rugs"
+  artifact: "rug-project"
+  version: "0.2.0"
+  origin:
+    repo: "https://github.com/atomist-rugs/rug-project.git"
+    branch: "27ac2e52f8fa870ac2452944be9f707734218354"
+    sha: "27ac2e5"
+  parameters:
+    - "project_name": "rug-test-03"
+
